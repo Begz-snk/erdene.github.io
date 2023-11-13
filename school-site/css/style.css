@@ -159,10 +159,11 @@ ul{
     list-style-type: lower-alpha;
 }
 
-ol{
+ol {
     margin: 1rem 0;
-    list-style-transform: lower-alpha;
+    list-style-type: lower-alpha;
 }
+
 
 .long-list a:hover{
     text-transform: uppercase;
